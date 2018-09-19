@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{06B8C236-F0EC-4BC7-B1F9-68D1DE37AE29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LTI_App/Form1.cs">
+    <Files>
+      <File FileName="LTI_App/Form1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LTI__App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
